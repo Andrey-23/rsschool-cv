@@ -1,11 +1,3 @@
-# SUMMARY
-## Andrey Ovsiannikov
-_____________________
-## _Contact information_
-
-###### Phone: +90 536 9353289
-
-###### E-mail:  23061966oam@gmail.com
 
 
 
