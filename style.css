@@ -1,0 +1,67 @@
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight:600;
+    font-family: "Roboto Light", san s-serif;
+}
+h1 { font-size: 40px;
+    color: red}
+h2 { font-size: 30px;
+    color: dodgerblue}
+h3 {font-style: italic}
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+#footer {
+    max-width: 720px;
+    margin: auto;
+    background: greenyellow;
+    padding: 1px;
+    border: 5px solid red;
+    border-radius: 20px;
+}
+
+/* Box Model */
+.contact {
+    background: aqua;
+    padding: 5px;
+    border: 5px solid red;
+    margin: 10px;
+    border-radius: 20px;
+}
+.skills {
+    background: rosybrown;
+    padding: 5px;
+    border: 5px solid red;
+    margin: 10px;
+    border-radius: 20px;
+}
+.briefly {
+    background: #2be28d;
+    padding: 5px;
+    border: 5px solid red;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+.education {
+    background: gold;
+    padding: 5px;
+    border: 5px solid red;
+    border-radius: 20px;
+    margin: 10px;
+}
+.language {
+    background: burlywood;
+    padding: 5px;
+    border: 5px solid red;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+
+
+
+
